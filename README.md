@@ -6,7 +6,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # Shopping Cart Application
 
-![Shopping Cart](shopping-cart-screenshot.png)
+![Shopping Cart](Shopping_Cart.png)
 
 Ye ek simple React.js based shopping cart application hai, jisme aap alag-alag products ko add kar sakte hain aur unhe cart mein dekh sakte hain.
 
@@ -23,8 +23,8 @@ Ye ek simple React.js based shopping cart application hai, jisme aap alag-alag p
 1. Clone repository: `git clone https://github.com/yourusername/shopping-cart.git`
 2. Project directory mein jaaye: `cd shopping-cart`
 3. Dependencies install kare: `npm install`
-4. Application ko run kare: `npm start`
-5. Browser mein [http://localhost:3000](http://localhost:3000) open kare.
+4. Application ko run kare: `npm run dev`
+5. Browser mein [http://localhost:5173](http://localhost:5173) open kare.
 
 ## Technologies Used
 
